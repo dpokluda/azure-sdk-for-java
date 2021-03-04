@@ -4,12 +4,12 @@
     "Uri" : "https://REDACTED.api.prod.adu.microsoft.com/deviceupdate/blue/v2/management/groups/dpokluda-test/bestUpdates",
     "Headers" : { },
     "Response" : {
-      "traceparent" : "00-f01b8d518aa2ad45bee66ca633d6b599-36bf8d00233f174e-00",
+      "traceparent" : "00-73ba7a3677e5f04eb09c34faf37ae433-7c07e4f445267745-00",
       "retry-after" : "0",
       "Content-Length" : "199",
       "StatusCode" : "200",
-      "Body" : "{\r\n  \"value\": [\r\n    {\r\n      \"updateId\": {\r\n        \"provider\": \"Contoso\",\r\n        \"name\": \"Virtual-Machine\",\r\n        \"version\": \"2021.302.1323.55\"\r\n      },\r\n      \"deviceCount\": 1\r\n    }\r\n  ]\r\n}",
-      "Date" : "Tue, 02 Mar 2021 21:29:01 GMT",
+      "Body" : "{\r\n  \"value\": [\r\n    {\r\n      \"updateId\": {\r\n        \"provider\": \"Contoso\",\r\n        \"name\": \"Virtual-Machine\",\r\n        \"version\": \"2021.303.1458.25\"\r\n      },\r\n      \"deviceCount\": 0\r\n    }\r\n  ]\r\n}",
+      "Date" : "Thu, 04 Mar 2021 22:26:49 GMT",
       "Content-Type" : "application/json; charset=utf-8"
     },
     "Exception" : null

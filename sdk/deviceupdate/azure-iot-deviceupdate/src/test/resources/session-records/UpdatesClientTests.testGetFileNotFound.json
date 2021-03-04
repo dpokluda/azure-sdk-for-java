@@ -5,12 +5,12 @@
     "Headers" : { },
     "Response" : {
       "Cache-Control" : "max-age=60, private",
-      "traceparent" : "00-da1fd230e2ab064986666281b64fa308-f6d6c5a28c4b4d49-00",
+      "traceparent" : "00-66e4da641f9019429b7cf6c8b91c68ac-ddca8e18370c4a4e-00",
       "retry-after" : "0",
       "Content-Length" : "161",
       "StatusCode" : "404",
-      "Body" : "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-da1fd230e2ab064986666281b64fa308-81c19f8eaed9814c-00\"}",
-      "Date" : "Tue, 02 Mar 2021 21:28:54 GMT",
+      "Body" : "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-66e4da641f9019429b7cf6c8b91c68ac-f9e09a93cb7fa146-00\"}",
+      "Date" : "Thu, 04 Mar 2021 22:26:38 GMT",
       "Content-Type" : "application/problem+json; charset=utf-8"
     },
     "Exception" : null

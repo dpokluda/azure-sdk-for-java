@@ -6,12 +6,12 @@
     "Response" : {
       "Cache-Control" : "max-age=60, private",
       "ETag" : "\"dffc9614-c1c4-4289-b41f-26ac37101fbe\"",
-      "traceparent" : "00-110e187abf16a94c9cea7e7b586354cb-676d31ceff39654e-00",
+      "traceparent" : "00-6c91c731dbec0c4f906aa2d5128834f6-c5207ed725810447-00",
       "retry-after" : "0",
       "Content-Length" : "411",
       "StatusCode" : "200",
       "Body" : "{\"updateId\":{\"provider\":\"Contoso\",\"name\":\"Virtual-Machine\",\"version\":\"2021.302.1202.48\"},\"updateType\":\"microsoft/swupdate:1\",\"installedCriteria\":\"1.2.3.4\",\"compatibility\":[{\"deviceManufacturer\":\"contoso\",\"deviceModel\":\"virtual-machine\"}],\"manifestVersion\":\"2.0\",\"importedDateTime\":\"2021-03-02T20:04:47.8946059Z\",\"createdDateTime\":\"2021-03-02T20:02:49.3084164Z\",\"etag\":\"\\\"dffc9614-c1c4-4289-b41f-26ac37101fbe\\\"\"}",
-      "Date" : "Tue, 02 Mar 2021 21:28:55 GMT",
+      "Date" : "Thu, 04 Mar 2021 22:26:38 GMT",
       "Content-Type" : "application/json; charset=utf-8"
     },
     "Exception" : null
